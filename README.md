@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muttahar_sheikh" target="blank"><img src="https://img.shields.io/twitter/follow/muttahar_sheikh?logo=twitter&style=for-the-badge" alt="muttahar_sheikh" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Javascript**
 
