@@ -1,46 +1,48 @@
-<!-- Banner Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif" width="350" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Coding at Laptop Animation"/>
 </p>
 
-<h1 align="center">👋 Hi, I’m <span style="color:#00e5ff">Muhammad Muttahar Sheikh</span></h1>
-<p align="center" style="font-size:1.2em; color:#aaa">MERN Stack Developer • Passionate Coder • Problem Solver</p>
+<h1 align="center" style="color:#00ffff">👋 Hi, I’m Muhammad Muttahar Sheikh</h1>
+<h3 align="center" style="color:#aaffff">MERN Stack Developer | Backend Enthusiast | Problem Solver</h3>
 
 ---
 
-### 🔧 Tech Skills  
+### 🧰 My Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,docker,git,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,docker,git,github,redux" alt="skills" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muttahar123&show_icons=true&theme=dark&bg_color=0d1117" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muttahar123&show_icons=true&theme=dark&bg_color=0d1117" height="140"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muttahar123&theme=dark&background=0d1117" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muttahar123&theme=dark" height="140"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects  
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Travelphoria** | MERN, REST APIs | Full travel planner with hotel & restaurant integration, owner & admin request approvals, AI suggestion for best options |
-| **Project Two** | React, Node | [Brief description something cool …] |
-| **Project Three** | Full Stack | [Another project & what makes it impressive] |
+
+| Project | Tech Stack | What Makes It Stand Out |
+|---------|------------|--------------------------|
+| **Travelphoria** | MERN, REST APIs, Booking API, AI Suggestions | Full travel planner; hotel/restaurant integration; hotel-owner & admin request approvals |
+| **Birds Marketplace App** | FULLSTACK | React Native + Firebase web sockets Google APis  |
+| **Mining App** | React Native | Expo + AdMob + Firebase |
 
 ---
 
-### 🌟 About Me  
-- Turning caffeine ☕ into code — JS, Node, React all day  
-- Always pushing to learn something new: AI agents, performance optimization, clean code patterns  
-- Love solving puzzles, fixing bugs, and building tools that people actually want to use  
+### 🌍 About Me  
+
+- Turning caffeine into clean, scalable code  
+- Always leveling up with new tools: AI, DevOps, performance optimization  
+- Strong believer: mistakes are the best lessons  
 
 ---
 
-### 📬 Connect with Me  
+### 🤝 Let’s Connect  
+
 <p align="center">
   <a href="https://twitter.com/muttahar_sheikh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/muttahar123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -50,5 +52,4 @@
 
 ---
 
-Made with ❤️ & ⚙️ by **Muhammad Muttahar Sheikh**
-
+Made with 🖤 & code by **Muhammad Muttahar Sheikh**
