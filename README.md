@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Coding at Laptop Animation"/>
+  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="400" alt="Coding at Laptop Animation"/>
 </p>
 
 <h1 align="center" style="color:#00ffff">👋 Hi, I’m Muhammad Muttahar Sheikh</h1>
