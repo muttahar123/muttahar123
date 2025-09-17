@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)" width="400" alt="Coding at Laptop Animation"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400" alt="Coding Animation"/>
 </p>
 
 <h1 align="center" style="color:#00ffff">👋 Hi, I’m Muhammad Muttahar Sheikh</h1>
-<h3 align="center" style="color:#aaffff">MERN Stack Developer | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center" style="color:#aaffff">MERN Stack Developer • Backend Enthusiast • Problem Solver</h3>
 
 ---
 
-### 🧰 My Tech Arsenal
+### 🧰 My Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,docker,git,github,redux" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,docker,git,github,tailwind" alt="skills icons"/>
 </p>
 
 ---
@@ -35,9 +35,9 @@
 
 ### 🌍 About Me  
 
-- Turning caffeine into clean, scalable code  
-- Always leveling up with new tools: AI, DevOps, performance optimization  
-- Strong believer: mistakes are the best lessons  
+- Transforming bugs into features • JS, Node, React heavy  
+- Always exploring AI, optimization, & clean architecture  
+- Strong work ethic • Creativity • Learning mindset  
 
 ---
 
