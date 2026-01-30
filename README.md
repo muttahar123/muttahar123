@@ -9,7 +9,7 @@
 
 ### 🧰 My Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,docker,git,github,tailwind,python,c,reactnativie,reactnative,reactnative,cloud,java,ruby,vuejs,flutter,androidstudio,firebase" alt="skills icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,docker,git,github,tailwind,python,c,reactnativie,reactnative,reactnative,postman,cloud,java,ruby,vuejs,flutter,androidstudio,firebase" alt="skills icons"/>
 </p>
 
 ---
