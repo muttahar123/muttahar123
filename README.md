@@ -40,7 +40,13 @@
 - Strong work ethic • Creativity • Learning mindset  
 
 ---
+## 📈 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muttahar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muttahar123&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+---
 ### 🤝 Let’s Connect  
 
 <p align="center">
