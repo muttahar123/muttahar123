@@ -14,11 +14,11 @@
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muttahar123&show_icons=true&theme=dark&bg_color=0d1117" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muttahar123&theme=dark" height="140"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muttahar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muttahar123&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
@@ -40,13 +40,7 @@
 - Strong work ethic • Creativity • Learning mindset  
 
 ---
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muttahar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muttahar123&layout=compact&langs_count=8&theme=algolia"/>
-</p>
----
 ### 🤝 Let’s Connect  
 
 <p align="center">
